@@ -1,0 +1,591 @@
+<?xml version="1.0" ?>
+<all_data>
+	<phone id="652827">
+		<name>Samsung Galaxy A30s 2019 A307F 3/32Gb Black (SM-A307FZKUSEK)</name>
+		<price>4 699 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,4&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 25,0 Мп + 5,0 Мп + 8,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 7904</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 3 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="659514">
+		<name>realme XT 8/128Gb (Pearl Blue)</name>
+		<price>6 899 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,4&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 64,0 Мп + 8,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 712</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 8 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="662357">
+		<name>Samsung Galaxy M31 2020 M315F 6/128Gb Blue (SM-M315FZBVSEK)</name>
+		<price>7 499 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,4&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 64,0 Мп + 8,0 Мп + 5,0 Мп + 5,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 32,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 9611</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 6 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="653220">
+		<name>Apple iPhone 11 64Gb Red (MWLV2)</name>
+		<price>22 899 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,1&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 12,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 12,0 Мп</characteristics3>
+			<characteristics4>Процессор Apple A13</characteristics4>
+			<characteristics5>Количество ядер 6 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="659509">
+		<name>realme 5 Pro 4/128Gb (Sparkling Blue)</name>
+		<price>5 499 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,3&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 48,0 Мп + 8,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 712</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="660047">
+		<name>Samsung Galaxy A51 2020 A515FN ZKU 4/64Gb Black (SM-A515FZKUSEK)</name>
+		<price>8 499 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана 6,5&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 48,0 Мп + 12,0 Мп + 5,0 Мп + 5,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 32,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 9611</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="660753">
+		<name>Samsung Galaxy S10 Lite 2020 G770F 6/128Gb Blue (SM-G770FZBGSEK)</name>
+		<price>15 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,7&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 48,0 Мп + 12,0 Мп + 5,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 32,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 855</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 6 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="661709">
+		<name>Samsung Galaxy S20 Plus 2020 G985F 8/128Gb Cosmic Gray (SM-G985FZADSEK)</name>
+		<price>29 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,7&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 64,0 Мп + 12,0 Мп + TOF 3D-камера</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 10,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 990</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 8 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="662958">
+		<name>realme 6 4/64Gb (White)</name>
+		<price>5 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,5&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 64,0 Мп + 8,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп</characteristics3>
+			<characteristics4>Процессор Mediatek Helio G90T</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="660643">
+		<name>Samsung Galaxy A71 2020 A715F 6/128Gb Black (SM-A715FZKUSEK)</name>
+		<price>11 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,7&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 64,0 Мп + 12,0 Мп + 5,0 Мп + 5,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 32,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 730</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 6 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="661715">
+		<name>Samsung Galaxy S20 2020 G980F 8/128Gb Cloud Blue (SM-G980FLBDSEK)</name>
+		<price>26 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,2&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 64,0 Мп + 12,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 10,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 990</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 8 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="651443">
+		<name>Samsung Galaxy Note 10 Plus 2019 N975F 12/256Gb Aura Black (SM-N975FZKDSEK)</name>
+		<price>30 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана 6,8&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 12,0 Мп + 16,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 10,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 9825</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 12 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="648207">
+		<name>ZTE Blade A5 2019 2/16Gb (Blue)</name>
+		<price>1 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана 5,45&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 8,0 Мп</characteristics3>
+			<characteristics4>Процессор Spreadtrum SC9863A</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="646521">
+		<name>ZTE Blade A7 2019 2/32Gb (Black)</name>
+		<price>2 199 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,1&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 16,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 8,0 Мп</characteristics3>
+			<characteristics4>Процессор Spreadtrum SC9863A</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="627026">
+		<name>Honor 7A 2/16Gb Gold (DUA-L22)</name>
+		<price>2 199 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 5,45&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 5,0 Мп</characteristics3>
+			<characteristics4>Процессор Mediatek MT6739</characteristics4>
+			<characteristics5>Количество ядер 4 ядра </characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="644291">
+		<name>Huawei Y5 2019 2/16Gb Black (51093SHA)</name>
+		<price>2 299 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана 5,71&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 5,0 Мп</characteristics3>
+			<characteristics4>Процессор MediaTek Helio A22</characteristics4>
+			<characteristics5>Количество ядер 4 ядра </characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="646078">
+		<name>Xiaomi Redmi 7A 2/16Gb (Matte Black)</name>
+		<price>2 399 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 5,45&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 5,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 439</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="645929">
+		<name>Honor 8S 2/32Gb Blue (51093ULP)</name>
+		<price>2 599 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 5,7&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 5,0 Мп</characteristics3>
+			<characteristics4>Процессор MediaTek Helio A22</characteristics4>
+			<characteristics5>Количество ядер 4 ядра </characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="617380">
+		<name>Samsung Galaxy J3 2017 J330F 2/16Gb Black (SM-J330FZKDSEK)</name>
+		<price>2 599 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана 5,0&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 5,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 7570</characteristics4>
+			<characteristics5>Количество ядер 4 ядра </characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="655342">
+		<name>ZTE Blade A7 2020 2/32Gb (Blue)</name>
+		<price>2 699 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,088&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 16,0 Мп + 8,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 8,0 Мп</characteristics3>
+			<characteristics4>Процессор MediaTek Helio P22</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="659499">
+		<name>realme C2 2/32Gb (Diamond Blue)</name>
+		<price>2 799 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,1&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 5,0 Мп</characteristics3>
+			<characteristics4>Процессор MediaTek Helio P22</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="660649">
+		<name>Samsung Galaxy A01 2020 A015F 2/16Gb Blue (SM-A015FZBDSEK)</name>
+		<price>2 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 5,7&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 5,0 Мп</characteristics3>
+			<characteristics4>Процессор </characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="650544">
+		<name>vivo Y91C 2/32Gb (Ocean Blue)</name>
+		<price>2 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,22&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 5,0 Мп</characteristics3>
+			<characteristics4>Процессор MediaTek MT6762R</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="641982">
+		<name>Huawei Y6 2019 2/32Gb (Brown Faux Leather)</name>
+		<price>2 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,09&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 8,0 Мп</characteristics3>
+			<characteristics4>Процессор MediaTek Helio A22</characteristics4>
+			<characteristics5>Количество ядер 4 ядра </characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="654925">
+		<name>Xiaomi Redmi 8A 2/32Gb (Ocean Blue)</name>
+		<price>2 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,2&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 8,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 439</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="651609">
+		<name>Honor 8A 2/32Gb (Вlue)</name>
+		<price>3 199 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,09&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 8,0 Мп</characteristics3>
+			<characteristics4>Процессор MediatTek MT6765</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="649752">
+		<name>Oppo A5s 3/32Gb (Black)</name>
+		<price>3 499 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,2&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 8,0 Мп</characteristics3>
+			<characteristics4>Процессор MediatTek MT6765</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 3 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="651450">
+		<name>Samsung Galaxy A10s 2019 A107F 2/32Gb Blue (SM-A107FZBDSEK)</name>
+		<price>3 599 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,2&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 8,0 Мп</characteristics3>
+			<characteristics4>Процессор MediaTek Helio P22</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="655319">
+		<name>vivo Y11 3/32Gb (Agate Red)</name>
+		<price>3 699 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,35&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 8,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 439</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 3 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="654854">
+		<name>Xiaomi Redmi 8 3/32Gb (Blue)</name>
+		<price>3 699 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,22&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 8,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 439</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 3 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="655340">
+		<name>ZTE Blade 20 Smart 4/128Gb (Green)</name>
+		<price>3 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,49&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 16,0 Мп + 8,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 8,0 Мп</characteristics3>
+			<characteristics4>Процессор MediaTek Helio P60</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="643178">
+		<name>Honor 10 Lite 3/32Gb (Sapphire Black)</name>
+		<price>3 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,21&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 24,0 Мп</characteristics3>
+			<characteristics4>Процессор HiSilicon Kirin 710</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 3 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="659506">
+		<name>realme 5 3/64Gb (Crystal Blue)</name>
+		<price>4 299 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,5&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 8,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 13,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 665</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 3 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="664071">
+		<name>Oрро A31 4/64Gb (Mystery Black)</name>
+		<price>4 499 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,5&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 8,0 Мп</characteristics3>
+			<characteristics4>Процессор MediaTek Helio P35</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="655234">
+		<name>Samsung Galaxy A20s 2019 A207F 3/32Gb Blue (SM-A207FZBDSEK)</name>
+		<price>4 499 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,5&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 13,0 Мп + 8,0 Мп + 5,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 8,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 3 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="655981">
+		<name>Xiaomi Redmi Note 8T 4/64Gb (Moonshadow Grey)</name>
+		<price>4 699 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,3&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 48,0 Мп + 8,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 13,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 665</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="654496">
+		<name>Oppo A5 2020 3/64Gb (Black)</name>
+		<price>4 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,5&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 8,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 8,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 665</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 3 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="648830">
+		<name>Huawei P Smart Z 4/64Gb Sapphire Blue (51093WVM)</name>
+		<price>5 499 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,59&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 16,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп</characteristics3>
+			<characteristics4>Процессор Hisilicon Kirin 710F</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="644013">
+		<name>Honor 10i 4/128Gb (Phantom Blue)</name>
+		<price>5 499 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,21&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 24,0 Мп + 8,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 32,0 Мп</characteristics3>
+			<characteristics4>Процессор HiSilicon Kirin 710</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="652990">
+		<name>Xiaomi Redmi Note 8 Pro 6/64Gb (White)</name>
+		<price>5 599 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,53&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 64,0 Мп + 8,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 20,0 Мп</characteristics3>
+			<characteristics4>Процессор Mediatek Helio G90T</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 6 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="617359">
+		<name>Apple iPhone 6s 16Gb (Space Gray) как новый Apple Certified Pre-owned (FKQJ2)</name>
+		<price>5 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана 4,7&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 5,0 Мп</characteristics3>
+			<characteristics4>Процессор Apple A9</characteristics4>
+			<characteristics5>Количество ядер 2 ядра</characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="658659">
+		<name>Huawei P30 Lite 2019 4/64Gb (Peacock Blue)</name>
+		<price>5 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,15&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 24,0 Мп + 8,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 32,0 Мп</characteristics3>
+			<characteristics4>Процессор HiSilicon Kirin 710</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="654508">
+		<name>Oppo A9 2020 4/128Gb (Space Purple)</name>
+		<price>5 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,5&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 48,0 Мп + 8,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 665</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="623923">
+		<name>Samsung Galaxy A8+ 2018 A730F 4/32Gb Gold (SM-A730FZDDSEK)</name>
+		<price>5 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,0&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 16,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп + 8,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 7885</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="644478">
+		<name>Huawei P30 Lite 2019 4/128Gb Pearl White (51093PUW)</name>
+		<price>6 499 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,15&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 48,0 Мп + 8,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 24,0 Мп</characteristics3>
+			<characteristics4>Процессор HiSilicon Kirin 710</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="642402">
+		<name>Samsung Galaxy A40 2019 A405F 4/64Gb Black (SM-A405FZKDSEK)</name>
+		<price>6 749 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 5,9&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 16,0 Мп + 5,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 25,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 7885</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="655737">
+		<name>Honor 9X 4/128Gb (Black)</name>
+		<price>6 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,59&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 48,0 Мп + 8,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп</characteristics3>
+			<characteristics4>Процессор Hisilicon Kirin 710F</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="653222">
+		<name>Apple iPhone 11 128Gb Black (MWM02)</name>
+		<price>23 899 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,1&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 12,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 12,0 Мп</characteristics3>
+			<characteristics4>Процессор Apple A13 Bionic</characteristics4>
+			<characteristics5>Количество ядер 6 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+	</phone>
+	<phone id="659508">
+		<name>realme 5 3/64Gb (Crystal Purple)</name>
+		<price>3 999 грн</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,5&quot;</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 8,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 13,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 665</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 3 Гб</characteristics6>
+		</characteristics>
+	</phone>
+</all_data>

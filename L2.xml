@@ -1,0 +1,377 @@
+<?xml version="1.0" ?>
+<all_data>
+	<phone id="2">
+		<name>realme XT 8/128Gb (Pearl Blue)</name>
+		<price>6899.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,4</characteristics1>
+			<characteristics2>Основная камера, Мп 64,0 Мп + 8,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 712</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 8 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="3">
+		<name>Samsung Galaxy M31 2020 M315F 6/128Gb Blue (SM-M315FZBVSEK)</name>
+		<price>7499.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,4</characteristics1>
+			<characteristics2>Основная камера, Мп 64,0 Мп + 8,0 Мп + 5,0 Мп + 5,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 32,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 9611</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 6 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="4">
+		<name>Apple iPhone 11 64Gb Red (MWLV2)</name>
+		<price>22899.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,1</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 12,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 12,0 Мп</characteristics3>
+			<characteristics4>Процессор Apple A13</characteristics4>
+			<characteristics5>Количество ядер 6 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="5">
+		<name>realme 5 Pro 4/128Gb (Sparkling Blue)</name>
+		<price>5499.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,3</characteristics1>
+			<characteristics2>Основная камера, Мп 48,0 Мп + 8,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 712</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="6">
+		<name>Samsung Galaxy A51 2020 A515FN ZKU 4/64Gb Black (SM-A515FZKUSEK)</name>
+		<price>8499.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана 6,5</characteristics1>
+			<characteristics2>Основная камера, Мп 48,0 Мп + 12,0 Мп + 5,0 Мп + 5,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 32,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 9611</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="7">
+		<name>Samsung Galaxy S10 Lite 2020 G770F 6/128Gb Blue (SM-G770FZBGSEK)</name>
+		<price>15999.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,7</characteristics1>
+			<characteristics2>Основная камера, Мп 48,0 Мп + 12,0 Мп + 5,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 32,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 855</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 6 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="8">
+		<name>Samsung Galaxy S20 Plus 2020 G985F 8/128Gb Cosmic Gray (SM-G985FZADSEK)</name>
+		<price>29999.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,7</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 64,0 Мп + 12,0 Мп + TOF 3D-камера</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 10,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 990</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 8 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="9">
+		<name>realme 6 4/64Gb (White)</name>
+		<price>5999.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,5</characteristics1>
+			<characteristics2>Основная камера, Мп 64,0 Мп + 8,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп</characteristics3>
+			<characteristics4>Процессор Mediatek Helio G90T</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="10">
+		<name>Samsung Galaxy A71 2020 A715F 6/128Gb Black (SM-A715FZKUSEK)</name>
+		<price>11999.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,7</characteristics1>
+			<characteristics2>Основная камера, Мп 64,0 Мп + 12,0 Мп + 5,0 Мп + 5,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 32,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 730</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 6 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="11">
+		<name>Samsung Galaxy S20 2020 G980F 8/128Gb Cloud Blue (SM-G980FLBDSEK)</name>
+		<price>26999.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,2</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 64,0 Мп + 12,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 10,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 990</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 8 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="12">
+		<name>Samsung Galaxy Note 10 Plus 2019 N975F 12/256Gb Aura Black (SM-N975FZKDSEK)</name>
+		<price>30999.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана 6,8</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 12,0 Мп + 16,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 10,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 9825</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 12 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="38">
+		<name>Huawei P Smart Z 4/64Gb Sapphire Blue (51093WVM)</name>
+		<price>5499.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,59</characteristics1>
+			<characteristics2>Основная камера, Мп 16,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп</characteristics3>
+			<characteristics4>Процессор Hisilicon Kirin 710F</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="39">
+		<name>Honor 10i 4/128Gb (Phantom Blue)</name>
+		<price>5499.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,21</characteristics1>
+			<characteristics2>Основная камера, Мп 24,0 Мп + 8,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 32,0 Мп</characteristics3>
+			<characteristics4>Процессор HiSilicon Kirin 710</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="40">
+		<name>Xiaomi Redmi Note 8 Pro 6/64Gb (White)</name>
+		<price>5599.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,53</characteristics1>
+			<characteristics2>Основная камера, Мп 64,0 Мп + 8,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 20,0 Мп</characteristics3>
+			<characteristics4>Процессор Mediatek Helio G90T</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 6 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="41">
+		<name>Apple iPhone 6s 16Gb (Space Gray) как новый Apple Certified Pre-owned (FKQJ2)</name>
+		<price>5999.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана 4,7</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 5,0 Мп</characteristics3>
+			<characteristics4>Процессор Apple A9</characteristics4>
+			<characteristics5>Количество ядер 2 ядра</characteristics5>
+			<characteristics6>Объем оперативной памяти 2 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="42">
+		<name>Huawei P30 Lite 2019 4/64Gb (Peacock Blue)</name>
+		<price>5999.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,15</characteristics1>
+			<characteristics2>Основная камера, Мп 24,0 Мп + 8,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 32,0 Мп</characteristics3>
+			<characteristics4>Процессор HiSilicon Kirin 710</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="43">
+		<name>Oppo A9 2020 4/128Gb (Space Purple)</name>
+		<price>5999.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,5</characteristics1>
+			<characteristics2>Основная камера, Мп 48,0 Мп + 8,0 Мп + 2,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп</characteristics3>
+			<characteristics4>Процессор Qualcomm Snapdragon 665</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="44">
+		<name>Samsung Galaxy A8+ 2018 A730F 4/32Gb Gold (SM-A730FZDDSEK)</name>
+		<price>5999.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,0</characteristics1>
+			<characteristics2>Основная камера, Мп 16,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп + 8,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 7885</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="45">
+		<name>Huawei P30 Lite 2019 4/128Gb Pearl White (51093PUW)</name>
+		<price>6499.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,15</characteristics1>
+			<characteristics2>Основная камера, Мп 48,0 Мп + 8,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 24,0 Мп</characteristics3>
+			<characteristics4>Процессор HiSilicon Kirin 710</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="46">
+		<name>Samsung Galaxy A40 2019 A405F 4/64Gb Black (SM-A405FZKDSEK)</name>
+		<price>6749.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 5,9</characteristics1>
+			<characteristics2>Основная камера, Мп 16,0 Мп + 5,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 25,0 Мп</characteristics3>
+			<characteristics4>Процессор Samsung Exynos 7885</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="47">
+		<name>Honor 9X 4/128Gb (Black)</name>
+		<price>6999.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,59</characteristics1>
+			<characteristics2>Основная камера, Мп 48,0 Мп + 8,0 Мп + 2,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 16,0 Мп</characteristics3>
+			<characteristics4>Процессор Hisilicon Kirin 710F</characteristics4>
+			<characteristics5>Количество ядер 8 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+	<phone id="48">
+		<name>Apple iPhone 11 128Gb Black (MWM02)</name>
+		<price>23899.0</price>
+		<characteristics>
+			<characteristics1>Размер экрана Безрамочный дисплей, 6,1</characteristics1>
+			<characteristics2>Основная камера, Мп 12,0 Мп + 12,0 Мп</characteristics2>
+			<characteristics3>Фронтальная камера, Мп 12,0 Мп</characteristics3>
+			<characteristics4>Процессор Apple A13 Bionic</characteristics4>
+			<characteristics5>Количество ядер 6 ядер</characteristics5>
+			<characteristics6>Объем оперативной памяти 4 Гб</characteristics6>
+		</characteristics>
+		<country>
+			<country1>China</country1>
+			<country2>France</country2>
+			<country3>Germany</country3>
+		</country>
+	</phone>
+</all_data>

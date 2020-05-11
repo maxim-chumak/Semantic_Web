@@ -13,12 +13,12 @@
                 <p>Цена: <xsl:value-of select="price"/></p>
                 <p>Характеристики:</p>
                 <ul>
-                  <li><p> <xsl:value-of select="characteristics/characteristics1"/></p></li>
-                  <li><p> <xsl:value-of select="characteristics/characteristics2"/></p></li>
-                  <li><p> <xsl:value-of select="characteristics/characteristics3"/></p></li>
-                  <li><p> <xsl:value-of select="characteristics/characteristics4"/></p></li>
-                  <li><p> <xsl:value-of select="characteristics/characteristics5"/></p></li>
-                  <li><p> <xsl:value-of select="characteristics/characteristics6"/></p></li>
+                  <li><p> <xsl:value-of select="characteristics/char[1]"/></p></li>
+                  <li><p> <xsl:value-of select="characteristics/char[2]"/></p></li>
+                  <li><p> <xsl:value-of select="characteristics/char[3]"/></p></li>
+                  <li><p> <xsl:value-of select="characteristics/char[4]"/></p></li>
+                  <li><p> <xsl:value-of select="characteristics/char[5]"/></p></li>
+                  <li><p> <xsl:value-of select="characteristics/char[6]"/></p></li>
                 </ul>
                 <p>Страна производителя:</p>
                 <ul>

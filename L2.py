@@ -30,6 +30,19 @@ def main():
 		if item_price < 5000.00:
 			root.remove(phone)
 
+	for elem in tree.findall('phone/characteristics/characteristics1'):
+		elem.tag = "char"
+	for elem in tree.findall('phone/characteristics/characteristics2'):
+		elem.tag = "char"
+	for elem in tree.findall('phone/characteristics/characteristics3'):
+		elem.tag = "char"
+	for elem in tree.findall('phone/characteristics/characteristics4'):
+		elem.tag = "char"
+	for elem in tree.findall('phone/characteristics/characteristics5'):
+		elem.tag = "char"
+	for elem in tree.findall('phone/characteristics/characteristics6'):
+		elem.tag = "char"
+
 	save_xml('L2.xml', root)
 	 
 def save_xml(filename, xml_code):
